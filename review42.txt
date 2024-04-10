@@ -1,0 +1,21 @@
+The submission is in the category "extended abstract" of a larger paper which seems to be still unpublished.
+The paper is in the scope of DL workshop.
+It presents an application of description logics in the area of program verification and specifically in the formulation and proving specifications. 
+For this task, the description logic is used to describe an intended domain of the program, in a generalization
+of Hoare triplets describing program contracts (precondition, action, postcondition).
+Not much can be understood from the 4 pages of the abstract. 
+The unclear points are listed below.
+
+Detailed comments.
+
+p.1 Abstract: the authors say that they present a calculus, while it is contained only in the long version of the paper, not to be found in the extended abstract.
+p.1, line -8: "description logic assertions" suggests ABox statements? Do you use TBoxes and ABoxes?
+p.1, line -2. "these assertions are used by a Hoare Logic that operates only on the program state"... But the pairs of domain assertion and program state are now parts of triples, hence the proposed logic (still a hoare logic) works on both of them?
+
+p.3, line 3: "Our aim is to specify..." I wonder if the aim is to specify or to specify and prove the specification, and the latter is even more important?
+p.3, eq (1): why there is no post-condition in the program (state) part?
+p.3, inference example: It is not clear if one should read it from bottom up or from top to bottom.
+p.3, inference example: symbol of entailment with superscript K is not defined.
+p.3, line -2: "... to leverage the pragmatics DL to..." not understandable 
+
+ 
