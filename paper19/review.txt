@@ -1,0 +1,11 @@
+The abstract is reporting a very nice result in the area of unification in the description logic EL extended with role hierarchy, transitivity of some roles and cycle-restricted TBoxes.
+The contribution is clearly in the scope of DL and should be accepted.
+
+The unification algorithm for EL-problem with a cycle-restricted TBox extended with role hierarchy axioms and transitivity of some roles has already been known.
+Likewise the unification algorithm for EL where top is not allowed is also known.
+The authors combine these two algorithms to solve a problem in EL  with a cycle-restricted TBox extended with role hierarchy axioms and transitivity of some roles  where the top symbol is not allowed either in the formulation of the problem or in the solution.
+
+The new algorithm is non-trivial and interesting.
+It is a step forward in the difficult area of unification in description logics.
+The authors hint at an application in maintaining SNOMED ontology which does not uses top concept in its definitions, although it is not clear if a
+cycle-restricted TBox component is really needed.
