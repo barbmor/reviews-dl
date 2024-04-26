@@ -1,4 +1,4 @@
-The abstract is reporting a very nice result in the area of unification in the description logic EL extended with role hierarchy, transitivity of some roles and cycle-restricted TBoxes.
+The abstract reports a new result in the area of unification in the description logic EL extended with role hierarchy, transitivity of some roles and cycle-restricted TBoxes.
 The contribution is clearly in the scope of DL and should be accepted.
 
 The unification algorithm for EL-problem with a cycle-restricted TBox extended with role hierarchy axioms and transitivity of some roles has already been known.
